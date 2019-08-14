@@ -8,7 +8,7 @@ $localidad = $_POST ['localidad'];
 
 $server = 'localhost';
 $user = 'TelloSql';
-$pass =1234'
+$pass =1234';
 $db = 'carga_de_datos';
 
 //Crear conexion a la base
