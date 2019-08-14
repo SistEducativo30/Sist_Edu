@@ -7,7 +7,7 @@ $correo = $_POST ['correo'];
 $localidad = $_POST ['localidad'];
 
 $server = 'localhost';
-$user = 'HOLAAAAAAAAAAAAAAAAAAAAAAAAAAA';
+$user = 'TelloSql';
 $pass = '1234';
 $db = 'carga_de_datos';
 
