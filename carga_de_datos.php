@@ -26,14 +26,5 @@ if(mysqli_query($conn, $sql)){
     echo "Insertado correctamente";
 }else{
     echo "Error: ".$sql. "<br>".mysqli_error($conn);
-}
-
-
-
-
-
-
-
-
 
 ?>
